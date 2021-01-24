@@ -1,4 +1,4 @@
-## Python - The VBA of Wall Street
+## Python - Read CSV, Analyze, Print and Save
 
 ### Analyzing the financial records of a company
 
